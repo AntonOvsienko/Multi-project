@@ -1,0 +1,8 @@
+1.Хешировать пароли
+https://apptractor.ru/info/articles/kak-pravilno-hranit-paroli-v-baze-dannyh.html
+2.Доделать исключения
+3.Сделать архив
+4.Сделать теги
+
+https://github.com/PavelRavvich/servlet-tutorial/tree/lesson/10.servlet_test
+https://freefrontend.com
